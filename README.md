@@ -1,5 +1,8 @@
 # Using Build Pattern and Multi-stage Builds with Docker
 
+Note: for better experince use this file in raw mode
+
+
 Legacy Method:
 
 runnig sh bash.sh will create the application and its dependency. after that the script will provide the nginx based imaged container 
